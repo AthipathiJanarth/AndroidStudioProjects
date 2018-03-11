@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/cafe" android:title="Cafe"/>
+    <item android:id="@+id/hotel" android:title="Hotel"/>
+    <item android:id="@+id/beach" android:title="Beach"/>
+    <item android:id="@+id/game" android:title="Game Center"/>
+    <item android:id="@+id/park" android:title="Park"/>
+    <item android:id="@+id/mall" android:title="Mall"/>
+    <item android:id="@+id/thetare" android:title="Thetare"/>
+    <item android:id="@+id/themepark" android:title="Themepark"/>
+</menu>

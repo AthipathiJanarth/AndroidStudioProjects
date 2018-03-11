@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cafe" android:title="Cafe"
+        android:icon="@drawable/ic_free_breakfast_black_24dp"/>
+    <item android:id="@+id/hotel" android:title="Restaurant"
+        android:icon="@drawable/ic_restaurant_black_24dp"/>
+    <item android:id="@+id/game" android:title="Game Center"
+        android:icon="@drawable/ic_casino_black_24dp"/>
+    <item android:id="@+id/beach" android:title="Beach"
+        android:icon="@drawable/ic_beach_access_black_24dp"/>
+    <item android:id="@+id/park" android:title="Park"
+        android:icon="@drawable/ic_child_friendly_black_24dp"/>
+    <item android:id="@+id/mall" android:title="Mall"
+        android:icon="@drawable/ic_location_city_black_24dp"/>
+    <item android:id="@+id/theatre" android:title="Theater"
+        android:icon="@drawable/ic_local_movies_black_24dp"/>
+    <item android:id="@+id/theme_park" android:title="Theme Park"
+        android:icon="@drawable/ic_pool_black_24dp"/>
+    <item android:id="@+id/bar" android:title="Bar"
+        android:icon="@drawable/ic_local_bar_black_24dp"/>
+</menu>
